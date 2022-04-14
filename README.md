@@ -1,2 +1,2 @@
-# pr-cticas
+# practicas
 Prácticas de HTML y JavaScript
